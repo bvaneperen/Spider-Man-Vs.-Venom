@@ -1,2 +1,2 @@
-# Venom Vs. Spider-Man
+# Spider-Man Vs. Venom
 Review Assignment
