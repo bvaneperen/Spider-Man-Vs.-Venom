@@ -33,7 +33,9 @@ img {
 }
 
 /*Class Attribute*/
-.Enhancements { color: orchid}
+.Enhancements {
+  color: orchid;
+}
 
 h1,
 h2 {
